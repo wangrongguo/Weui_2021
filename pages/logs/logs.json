@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "mp-navigation-bar": "../../template/navigation-bar/navigation-bar",
+    "mp-vtabs": "@miniprogram-component-plus/vtabs",
+    "mp-vtabs-content": "@miniprogram-component-plus/vtabs-content"
+  },
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false
+}

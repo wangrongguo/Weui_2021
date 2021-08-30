@@ -1,0 +1,32 @@
+/* pages/apply/apply.wxss */
+@import "../../app.wxss";
+page,
+.page,
+.page__bd{
+    height: 100%;
+}
+.page__bd{
+    padding-bottom: 0;
+}
+.weui-tab__content{
+    padding-top: 60px;
+    text-align: center;
+}
+.swiper-tab{
+  width: 100%;
+  border-bottom: 2rpx solid #ccc;
+  text-align: center;
+  height: 88rpx;
+  line-height: 88rpx;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+}
+.swiper-tab-item{
+  width: 30%; 
+  color:#000;
+}
+.active{
+  color:#D9FFFF;
+  border-bottom: 4rpx solid #D9FFFF;
+}

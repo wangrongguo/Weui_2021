@@ -1,0 +1,5 @@
+/* pages/index/index_one/index_one.wxss */
+@import "../../../app.wxss";
+.weui-tabs-swiper{
+  background-color: #D9FFFF;
+}

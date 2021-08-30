@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "mp-navigation-bar": "../../template/navigation-bar/navigation-bar",
+    "mp-icon": "../../miniprogram_npm/weui-miniprogram/icon/icon",
+    "mp-dialog": "../../miniprogram_npm/weui-miniprogram/dialog/dialog"
+  },
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "disableScroll": true
+}

@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "mp-navigation-bar": "../../template/navigation-bar/navigation-bar",
+    "mp-searchbar": "../../miniprogram_npm/weui-miniprogram/searchbar/searchbar",
+    "mp-dialog": "../../miniprogram_npm/weui-miniprogram/dialog/dialog",
+    "mp-actionSheet": "../../miniprogram_npm/weui-miniprogram/actionsheet/actionsheet"
+  },
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false
+}

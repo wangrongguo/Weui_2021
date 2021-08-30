@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/my/my",
+    "pages/apply/apply",
+    "pages/index/index_one/index_one",
+    "pages/voice/voice",
+    "pages/mock/mock"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#111",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "selectedColor": "#1296db",
+    "backgroundColor": "#fff",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "images/chengzi.png",
+        "selectedIconPath": "images/mianxingchengzi.png",
+        "text": "橙子"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "images/hongxinyou.png",
+        "selectedIconPath": "images/mianxinghongxinyou.png",
+        "text": "西柚"
+      },
+      {
+        "pagePath": "pages/apply/apply",
+        "iconPath": "images/ningmeng.png",
+        "selectedIconPath": "images/mianxingningmeng.png",
+        "text": "柠檬"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

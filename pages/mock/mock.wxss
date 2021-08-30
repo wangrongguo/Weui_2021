@@ -1,0 +1,2 @@
+/* pages/mock/mock.wxss */
+@import "../../app.wxss";
